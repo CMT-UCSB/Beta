@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/QoL/To Be Continued.unity
+  isLoaded: 1
+  isActive: 1
